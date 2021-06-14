@@ -1,0 +1,58 @@
+h4{
+  background-color:black;
+  color: whitesmoke;
+  text-align:center;
+  padding: 10px
+}
+h2{
+  text-align: center;
+}
+nav a{
+  text-decoration: none;
+  color: whitesmoke;
+  padding: 2%;
+  text-align: center;
+  float: left;
+  background-color: black;
+ 
+  
+}
+nav {
+  background-color: black;
+  overflow: hidden;
+
+}
+nav a :hover{
+  color: whitesmoke;
+
+}
+nav a:visited{
+  color: aqua;
+}
+
+table,tr,th,td{
+  border: 2px solid black;
+  border-collapse: collapse;
+  padding: 5%;
+  border-spacing: 5px;
+}
+th{
+  background-color: cornflowerblue;
+}
+td{
+  background-color: crimson;
+}
+h3{
+  text-align: right;
+  color: whitesmoke;
+  text-shadow: 3px  whitesmoke;
+}
+h5{
+  text-align: right;
+}
+h5:hover{
+  color: blue;
+}
+h5:visited{
+  color: red;
+}
